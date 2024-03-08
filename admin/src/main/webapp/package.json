@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
-  "version": "3.8.7",
-  "description": "若依管理系统",
-  "author": "若依",
+  "name": "TAS",
+  "version": "1.0.0",
+  "description": "核仪教辅系统",
+  "author": "ZW",
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://github.com/walnut7/TAS.git"
   },
   "dependencies": {
     "@element-plus/icons-vue": "2.3.1",

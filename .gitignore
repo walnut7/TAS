@@ -12,3 +12,5 @@
 /modules/system/system.iml
 /modules/system/target/
 /.idea/
+/admin/src/main/webapp/node_modules/
+/admin/src/main/webapp/package-lock.json
